@@ -2,7 +2,7 @@ package testproject;
 
 /** Class that aggregates a lot of values into one summ */
 class Aggregator {
-    private char sum = 0;
+    private int sum = 0;
 
     /**
      * Add a value to the aggregated number.
